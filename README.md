@@ -1,2 +1,2 @@
 # run-in-bg
-linux non-bloated run-in-background script
+linux non-bloated run-in-background via string script
